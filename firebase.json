@@ -1,1 +1,22 @@
-{"flutter":{"platforms":{"android":{"default":{"projectId":"mapsample-80743","appId":"1:1025890988302:android:7c13c55ae9bc79109aa75f","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"mapsample-80743","configurations":{"android":"1:1025890988302:android:7c13c55ae9bc79109aa75f","ios":"1:1025890988302:ios:09202647a658a5db9aa75f"}}}}}}
+{
+	"flutter": {
+		"platforms": {
+			"android": {
+				"default": {
+					"projectId": "mapsample-80743",
+					"appId": "1:1025890988302:android:7c13c55ae9bc79109aa75f",
+					"fileOutput": "android/app/google-services.json"
+				}
+			},
+			"dart": {
+				"lib/firebase_options.dart": {
+					"projectId": "mapsample-80743",
+					"configurations": {
+						"android": "1:1025890988302:android:7c13c55ae9bc79109aa75f",
+						"ios": "1:1025890988302:ios:09202647a658a5db9aa75f"
+					}
+				}
+			}
+		}
+	}
+}

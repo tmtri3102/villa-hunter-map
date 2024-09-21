@@ -3,7 +3,7 @@ plugins {
     id "kotlin-android"
     // id "org.jetbrains.kotlin.android" version "1.7.10"
     id "dev.flutter.flutter-gradle-plugin"
-    id("com.google.gms.google-services") version "4.4.2" 
+    // id("com.google.gms.google-services") version "4.4.2" 
 }
 
 def localProperties = new Properties()
@@ -36,7 +36,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId = "1:1025890988302:android:293c9b272eff89519aa75f"
+        applicationId = "com.example.mapsample"
         // You can update the following values to match your application needs.
         // For more information, see: https://docs.flutter.dev/deployment/android#reviewing-the-gradle-build-configuration.
         minSdk = flutter.minSdkVersion

@@ -1,8 +1,10 @@
 # Map sample
 
-This project use firebase, with tutorial:
+This project use Firebase using this tutorial:
 
 firebase.google.com/docs/flutter/setup?platform=android
+
+### Below is just my notes of steps I been through
 
 dart pub global activate flutterfire_cli
 
